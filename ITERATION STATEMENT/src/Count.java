@@ -13,7 +13,7 @@ public class Count
             System.out.print(i+" ");
             count+=i;
         }
-        System.out.println();
+        
         System.out.println("The sum of the digit is:- "+count);
 
     }
